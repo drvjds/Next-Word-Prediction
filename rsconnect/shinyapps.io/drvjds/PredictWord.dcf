@@ -1,0 +1,12 @@
+name: PredictWord
+title: PredictWord
+username:
+account: drvjds
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3306389
+bundleId: 3909471
+url: https://drvjds.shinyapps.io/PredictWord/
+when: 1606405416.80798
+asMultiple: FALSE
+asStatic: FALSE
